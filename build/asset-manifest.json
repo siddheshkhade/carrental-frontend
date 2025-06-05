@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5ec9bfd7.css",
+    "main.js": "/static/js/main.1e9c3150.js",
+    "static/media/Car-rental-image.jpg": "/static/media/Car-rental-image.468c7b1b21c709db54be.jpg",
+    "static/media/dino.gif": "/static/media/dino.7c8245f6b22d5b86577b.gif",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/index.html",
+    "main.5ec9bfd7.css.map": "/static/css/main.5ec9bfd7.css.map",
+    "main.1e9c3150.js.map": "/static/js/main.1e9c3150.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ec9bfd7.css",
+    "static/js/main.1e9c3150.js"
+  ]
+}
